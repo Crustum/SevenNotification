@@ -13,7 +13,7 @@ use Crustum\SevenNotification\Provider\SevenChannelProvider;
  *
  * Registers the Seven.io SMS notification channel with the CakePHP Notification plugin.
  */
-class SevenPlugin extends BasePlugin
+class SevenNotificationPlugin extends BasePlugin
 {
     /**
      * Bootstrap hook
